@@ -17,7 +17,7 @@
 
 1. Клонируйте репозиторий:
 ```bash
-git clone https://github.com/ваш-username/косынка.git
+git clone https://github.com/AlexZhelPy/soliter.git
 ```
 2. Установите зависимости:
 
